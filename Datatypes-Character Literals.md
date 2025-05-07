@@ -21,4 +21,4 @@ print(b)
 
 ## Result
 
-Thus the program to write a Python program that prints the characters `'T'` and `'a'` using character literals is done successfully.
+Thus the program which prints the characters `'T'` and `'a'` using character literals is done successfully.
