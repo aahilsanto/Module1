@@ -27,4 +27,4 @@ print(x.imag)
 
 ## Result
 
-Thus the program to write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is executed successfully.
+Thus the program which reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is executed successfully.
