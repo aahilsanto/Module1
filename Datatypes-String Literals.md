@@ -21,4 +21,4 @@ print(men_stepped_on_the_moon)
 
 ## Result
 
-Thus the program to write a Python program to read a string from the user and then print it is executed successfully.
+Thus the program to read a string from the user and then print it is executed successfully.
