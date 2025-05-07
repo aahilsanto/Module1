@@ -33,4 +33,4 @@ print("d:",d)
 
 ## Result
 
-Thus the program to write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is done successfully.
+Thus the program to evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is done successfully.
