@@ -26,4 +26,4 @@ else:
 
 ## Result
 
-Thus the program to write a Python program to check whether the given number is **even** or **odd** using `if...else` statements is done successfully.
+Thus the program to check whether the given number is **even** or **odd** using `if...else` statements is done successfully.
